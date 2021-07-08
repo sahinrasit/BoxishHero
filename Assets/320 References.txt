@@ -1,0 +1,13 @@
+References to SE320 Project:
+-> Unity Documents
+
+Youtube Tutorials;
+-> "Multiplayer Third Person Shooter E2: GameManager & Input Controller"	by Stevie ROF
+-> "Multiplayer Third Person Shooter E3: Player & Gamemanager event"		by Stevie ROF
+-> "Multiplayer Third Person Shooter E5: Shooter"							by Stevie ROF
+-> "HowTo: Build a 3rd person shooter in Unity - Part 1"					by Jason Weimann
+-> "Unity Tutorial - How to make Enemy Healthbars"							by Dapper Dino
+-> "Simple laser in unity"													by Ba Duy
+
+
+
